@@ -1,0 +1,10 @@
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/repositorio/RepositorioEstoque.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/repositorio/RepositorioInstituicao.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/entidades/Instituicao.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/Application.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/controller/AlunosController.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/entidades/Aluno.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/controller/HelloController.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/repositorio/RepositorioAluno.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/controller/InstituicaoController.java
+/home/gezierri/Documents/workspace-sts-3.9.4.RELEASE/SpringBoot/src/main/java/br/com/treinaweb/springboot/entidades/PecasEstoque.java
